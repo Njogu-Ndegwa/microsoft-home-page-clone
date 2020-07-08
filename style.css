@@ -144,3 +144,21 @@ margin-bottom: 40px;
 
 /* X box */
 
+.xbox {
+    height: 350px;
+    width: 100%;
+    background: url('./img/xbox.png') no-repeat center center/cover;
+    margin-bottom: 20px;
+}
+
+.xbox .content {
+    width: 40%;
+    padding: 50px 00 30px;
+}
+
+.xbox p, .carbon p {
+    margin: 10px 0 20px;
+}
+
+/* Carbon */
+
